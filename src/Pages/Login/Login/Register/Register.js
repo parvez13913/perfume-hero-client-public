@@ -4,6 +4,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { toast, ToastContainer } from 'react-toastify';
 import auth from '../../../../firebase.init';
 import Loading from '../../Loading/Loading';
+import Social from '../Social/Social';
 import './Register.css';
 
 const Register = () => {
@@ -74,6 +75,7 @@ const Register = () => {
                     <input onBlur={handleConfirmPasswordField} type="password" className="form-control" id="confirmPassword" placeholder='Confirm Your Password' required />
                 </div>
                 <button type="submit" className="btn btn-primary w-100">Register</button>
+                <Social></Social>
                 {loadingElement}
             </form>
             {errorElement}
