@@ -1,0 +1,27 @@
+.card-container{
+    background-color: #101820FF;
+    color: rgba(248, 232, 232, 0.899);
+    border-radius: 10px;
+}
+.card-img{
+    margin: 10%;
+    border-radius: 5%;
+    width: 80%;
+    height: 250px;
+}
+.supplier-title{
+    display: flex;
+    justify-content: center;
+    border: 2px solid rgba(214, 178, 178, 0.869);
+    border-radius: 10px;
+    padding: 2%;
+    margin-top: 2%;
+}
+.card-img:hover{
+    opacity: 0.5;
+}
+.btn-width{
+    width: 100%;
+    background-color: #0063B2FF;
+    color: rgba(248, 232, 232, 0.899);
+}

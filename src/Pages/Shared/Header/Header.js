@@ -33,7 +33,13 @@ const Header = () => {
                         </Nav>
                         <Nav>
                             {
-                                user ? <p className='pointer text-secondary m-2 fw-bold' onClick={handelLogout}>Logout</p> : <Nav.Link as={Link} to="Login">Login</Nav.Link>
+                                user ? <p className='pointer text-secondary m-2' onClick={handelLogout}>Logout</p> : <Nav.Link as={Link} to="Login">Login</Nav.Link>
+                            }
+
+                            {
+                                user && <>
+                                    <Nav.Link as={Link} to="additems">AddItems</Nav.Link>
+                                </>
                             }
                         </Nav>
                     </Navbar.Collapse>

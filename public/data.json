@@ -2,63 +2,70 @@
   {
     
     "index": 0,
+    "price": 120,
     "picture": "https://i.ibb.co/g7MjZpV/perfume-3-1.png",
     "name": "Lancome La Vie est Belle",
-    "supplier name": "Garner Myers",
+    "supplierName": "Garner Myers",
     "description": "La Vie est Belle is not only a Lancome bestseller, but one of the best-rated perfumes of all time. It ranks consistently in the top 10 best perfumes, and it’s a delectable contender for the best perfume of 2021. Fittingly, the French name translates to life is beautiful — and so it is if you spritz on this scent. A favorite for over a decade, this sweet fragrance has good sillage and even better longevity, making it a loyal day-to-night option.\r\n",
     "quantity": 5
   },
   {
     
     "index": 1,
+    "price": 999,
     "picture": "https://i.ibb.co/jyfYSDb/perfume-1-1.png",
     "name": "Marc Jacobs Daisy",
-    "supplier name": "Simone Alexander",
+    "supplierName": "Simone Alexander",
     "description": "In a flacon that looks as great as its fragrance smells, Marc Jacobs consistently comes out as a favorite with this classic Daisy scent. Daisy has inspired countless spinoffs, but the original remains the tried and true favorite. The feeling it creates is fresh, and the fruity and floral blend perfectly reflects the Daisy name. Notes include blood grapefruit, violet leaf, strawberry, gardenia, jasmine, musk, white woods, and vanilla making for a feminine but sexy creation. In our opinion, this is the best floral perfume of all time.\r\n",
     "quantity": 4
   },
   {
     
     "index": 2,
+    "price": 990,
     "picture": "https://i.ibb.co/ZHXjNCX/perfume-2-1.png",
     "name": "Gabbana Light Blue",
-    "supplier name": "Candice Saunders",
+    "supplierName": "Candice Saunders",
     "description": "You might not be able to jetset to Capri, but you can capture Italy in a bottle with this perfect-for-summer scent by Dolce & Gabbana. Possibly the best rose perfume of all time, Light Blue blends fresh, fruity, and floral notes, including citron, lemon, Granny Smith apple, rose, jasmine, cedarwood, bamboo, amber, and musk. \r\n",
     "quantity": 3
   },
   {
     
     "index": 3,
+    "price": 880,
     "picture": "https://i.ibb.co/nfmBLtx/perfume-30.png",
     "name": "Rolf Flowerbomb",
-    "supplier name": "Tammie Lowe",
+    "supplierName": "Tammie Lowe",
     "description": "Viktor & Rolf may not be the superstars of the fashion world they once were, but their Flowerbomb fragrance continues to be a top choice in dozens of best perfume for women lists. Launched in 2005, notes of tea, bergamot, orchid, jasmine, rose, freesia, African orange flower, and patchouli make this a true flower bomb, but with sexy undertones thanks to the vanilla-musk base. This is a great first date option, filled with promise and excitement.\r\n",
     "quantity": 4
   },
   {
     
     "index": 4,
+    "price": 660,
     "picture": "https://i.ibb.co/MGqZ3gj/perfume-28.png",
     "name": "Chanel Paris-Biarritz",
-    "supplier name": "Ball Mccarty",
+    "supplierName": "Ball Mccarty",
     "description": "When most people think of the best female perfume in the world, they think of Chanel. While there are countless classics from the brand, an underrated best is their Paris-Biarritz varietal. It’s light enough that you can wear it on its own in the summer, or layer it for something heavier during cooler months. Its year-round appeal is well reflected in the Paris-Biarritz name (Biarritz is a summer destination for many Parisians). The fragrance itself was launched in 2018 as part of the Les Eaux De Chanel collection, which also includes Paris-Deauville and Paris-Venise.\r\n",
     "quantity": 5
   },
   {
     
     "index": 5,
+    "price": 760,
     "picture": "https://i.ibb.co/qsWbqNm/perfume-29.png",
     "name": "Philosophy Amazing Grace ",
-    "supplier name": "Thomas Levine",
+    "supplierName": "Thomas Levine",
     "description": "Philosophy‘s Amazing Grace is truly a perfume for all, which is why it makes such a wonderful hostess gift. It’s fresh, feminine, clean, and totally versatile. It’s the brand’s most award-winning fragrance, and you’ll see why when you spray the blend of bergamot, grapefruit, Mandarin orange, freesia, jasmine, rose, and musk. It’s easily one of the world’s best florals.\r\n",
     "quantity": 4
   },
   {
     
     "index": 6,
+    "price": 230,
     "picture": "https://i.ibb.co/hWbT80S/perfume-27.png",
     "name": "Dior Joy",
-    "supplier name": "Johnston Benton",
+    "supplierName": "Johnston Benton",
     "description": "You’re probably familiar with Dior’s J’adore, which many claim as one of their favorite fragrances of all time. But we’re here to make a case for Dior Joy, because it’s simply dazzling. It’s wonderfully vibrant and one of those special scents that can perk you up when you’re having a bad day. In fact, the blend was designed specifically to encourage happiness and a positive mood with its mix of bergamot, Mandarin orange, jasmine, peach, cassis, white musk, sandalwood, patchouli, and cedar. It succeeds, and oh does it succeed! Dior Joy deserves its reputation as one of the best-rated perfumes of all time.\r\n",
     "quantity": 4
   },
@@ -67,313 +74,347 @@
     "index": 7,
     "picture": "https://i.ibb.co/0BFQy1Z/perfume-26.png",
     "name": "Estée Lauder Beautiful",
-    "supplier name": "Sybil Cotton",
+    "supplierName": "Sybil Cotton",
     "description": "This daytime fragrance is a true classic. It was launched by Estee Lauder in 1985 and remains one of the world’s best-selling fragrances today. It combines floral with citrus notes for a romantic and light option that works just as well in the office as it does poolside in the Hamptons.\r\n",
     "quantity": 4
   },
   {
     
     "index": 8,
+    "price": 999,
     "picture": "https://i.ibb.co/MG4LdTy/perfume-41.png",
     "name": "Juicy Couture Viva La Juicy",
-    "supplier name": "Rojas Gates",
+    "supplierName": "Rojas Gates",
     "description": "If you ever needed definitive proof that the best fragrances of all time aren’t based on trends, look no further than Juicy Couture’s Viva La Juicy. Juicy is years past its heyday, and yet it still remains incredibly popular. Many consider it the best perfume for girls, but despite the bubble gum packaging it’s quite a sophisticated scent. The gourmand floral shines with notes of wild berries, mandarin, gardenia, honeysuckle, jasmine, caramel, amber, vanilla, sandalwood, and praline.\r\n",
     "quantity": 3
   },
   {
     
     "index": 9,
+    "price": 880,
     "picture": "https://i.ibb.co/wsKzGp8/perfume-42.png",
     "name": "Yves Saint Laurent Black Opium",
-    "supplier name": "Jessie Giles",
+    "supplierName": "Jessie Giles",
     "description": "If you’re in the market for something with a rock-n-roll edge, Yves Saint Laurent’s Black Opium is a spot-on option. Wear this warm gourmand scent after dark. Its blend of black coffee, white flowers, and vanilla are sure to help you stand out. You’ll dazzle no matter how crowded the room where you find yourself. A worthy inclusion on any list of the best perfumes of all time.\r\n",
     "quantity": 3
   },
   {
     
     "index": 10,
+    "price": 680,
     "picture": "https://i.ibb.co/ZVj4sVm/perfume-40.png",
     "name": "Thierry Mugler Angel",
-    "supplier name": "Riley Richmond",
+    "supplierName": "Riley Richmond",
     "description": "Many people consider Tierry Mugler’s Angel the best vanilla perfume in the world. It has achieved cult status and is proof positive that sweet scents can be both complex and sophisticated. An elegant choice, Angel was launched nearly 35 years ago. In 2007 it received the FiFi Hall Of Fame Award (one of the highest honors in the fragrance world). Note that a little goes a long way with this mouth-watering scent.\r\n",
     "quantity": 4
   },
   {
     
     "index": 11,
+    "price": 110,
     "picture": "https://i.ibb.co/TYpjGSN/perfume-38.png",
     "name": "Marc Jacobs Daisy Dream",
-    "supplier name": "Luisa Huffman",
+    "supplierName": "Luisa Huffman",
     "description": "Marc Jacobs’ Daisy launched an entire line of popular offshoots, and one of the best is Daisy Dream. The soft, fruity floral is a popular summer fragrance light enough to work even on the hottest days. Notes of blackberry, pear, grapefruit, wisteria, lychee, jasmine, musk, coconut, and white wood make it a unique treasure you’ll love spritzing on.\r\n",
     "quantity": 3
   },
   {
     
     "index": 12,
+    "price": 160,
     "picture": "https://i.ibb.co/1qxJghr/perfume-39.png",
     "name": "Michael Kors Stylish Amber",
-    "supplier name": "Price Osborn",
+    "supplierName": "Price Osborn",
     "description": "Few if any American brands conjure a carefree, jet-setting sense of glamour like Michael Kors. This rich floral scent with notes of orange blossom, Turkish rose, violet root, white lily, iris, musk, cashmere wood, dried fig, vetiver, and white peony fits that mold. It’s a well-rounded scent perfect for anytime you’re looking to smell effortlessly sexy and seductive.\r\n",
     "quantity": 4
   },
   {
     
     "index": 13,
+    "price": 180,
     "picture": "https://i.ibb.co/g9k90Pn/perfume-36.png",
     "name": "Thierry Mugler Alien",
-    "supplier name": "Walls Cardenas",
+    "supplierName": "Walls Cardenas",
     "description": "It took Thierry Mugler over a decade to create a fragrance that rivals the popularity and appeal of Angel, but in 2005 they did just that when the brand launched Alien. The fragrance is often described as intense, so it’s an ideal choice for someone vying for attention. The juice inside its black obelisk is a blend of white amber, woodsy notes, and jasmine. Easily one of the best perfumes of all time.\r\n",
     "quantity": 5
   },
   {
     
     "index": 14,
+    "price": 120,
     "picture": "https://i.ibb.co/nbMxFyG/perfume-37.png",
     "name": "Tom Ford White Suede",
-    "supplier name": "Keri Flores",
+    "supplierName": "Keri Flores",
     "description": "This year-round after dark scent is as sexy as it gets. If you’re looking to attract a suitor of any gender, it’s impossible to fail with this intoxicatingly-delicious Private Blend from Tom Ford. This woody scent is all about the musk (if there’s one thing to know about Tom Ford fragrances, it’s that the designer loves musk). Just remember that a little goes a long way with this long-lasting fragrance. \r\n",
     "quantity": 4
   },
   {
     
     "index": 15,
+    "price": 420,
     "picture": "https://i.ibb.co/9rKGDnQ/perfume-35.png",
     "name": "Hermes Kelly Caleche",
-    "supplier name": "Huffman English",
+    "supplierName": "Huffman English",
     "description": "As classic as a Kelly bag, but a lot more wallet friendly, Hermes’ Kelly Caleche is a delicious entry on the list of the best perfumes of all time. This “ladies who lunch” scent is an update on Hermes’ Caleche, with its intoxicating blend of grapefruit, narcissus, lily-of-the-valley, rose, mimosa, tuberose, leather, and iris. It’s unique and well-blended, suiting it to be your signature daytime scent. This versatile fragrance works equally well year-round. \r\n",
     "quantity": 3
   },
   {
     
     "index": 16,
+    "price": 160,
     "picture": "https://i.ibb.co/8rP4PRz/perfume-34.png",
     "name": "Versace Bright Crystal",
-    "supplier name": "Ford Valencia",
+    "supplierName": "Ford Valencia",
     "description": "Leave it to Versace to master blending sensuality with youthful exuberance. The master perfumer does it oh-so-well with Bright Crystal, a fresh and fruity scent. Notes of pomegranate, tart-sweet yuzu, and amber make for a luminous fragrance that will invigorate with confidence. One of the best sweet perfumes you’ll encounter.\r\n",
     "quantity": 4
   },
   {
     
     "index": 17,
+    "price": 180,
     "picture": "https://i.ibb.co/GVG2Szq/perfume-33.png",
     "name": "Acqua Di Parma Rosa Nobile",
-    "supplier name": "Morris Holman",
+    "supplierName": "Morris Holman",
     "description": "This forever-classic rose scent by Acqua Di Parma is an elegant choice that works to highlight all the many mysteries of the rose. The juice blends Lily-of-the-valley, peony, and violet, making for a simply lovely, elegant, and comfortably-traditional blend. If you love calling people “darling,” this is the rose scent for you.\r\n",
     "quantity": 5
   },
   {
     
     "index": 18,
+    "price": 198,
     "picture": "https://i.ibb.co/gPM7vMY/perfume-32.png",
     "name": " Giorgio Armani Si",
-    "supplier name": "Salas Ayers",
+    "supplierName": "Salas Ayers",
     "description": "This woody scent by Giorgio Armani is a dazzling way to transition between seasons — especially summer-to-fall — because it carries helpful hints of sweetness. Notes include cassis, May rose, freesia, vanilla, patchouli, ambroxan, and wood. It has great longevity and projection, so if you’re looking to catch attention at a party, this is a spot-on option. A bold choice for the best summer perfume of all time.\r\n",
     "quantity": 3
   },
   {
     
     "index": 19,
+    "price": 199,
     "picture": "https://i.ibb.co/xSZYGQM/perfume-31.png",
     "name": "Byredo Slow Dance Eau de Parfum",
-    "supplier name": "Melton Anthony",
+    "supplierName": "Melton Anthony",
     "description": "This woody scent by Giorgio Armani is a dazzling way to transition between seasons — especially summer-to-fall — because it carries helpful hints of sweetness. Notes include cassis, May rose, freesia, vanilla, patchouli, ambroxan, and wood. It has great longevity and projection, so if you’re looking to catch attention at a party, this is a spot-on option. A bold choice for the best summer perfume of all time.\r\n",
     "quantity": 5
   },
   {
     
     "index": 20,
+    "price": 187,
     "picture": "https://i.ibb.co/GH64cXw/perfume-25.png",
     "name": " Frederic Malle Lipstick Rose Perfume",
-    "supplier name": "Collier Flowers",
+    "supplierName": "Collier Flowers",
     "description": "Byredo‘s Slow Dance is another exquisite blend of woody and sweet. It works best for cooler weather with its blend of violet, patchouli, cognac, geranium, and vanilla. The cognac adds a boozy touch at the opening, which will leave you feeling nostalgic for your teenage slow-dance years. The scent then settles with more feminine notes like violet, earning its reputation as one of the best perfumes of all time.\r\n",
     "quantity": 5
   },
   {
     
     "index": 21,
+    "price": 728,
     "picture": "https://i.ibb.co/9qHRwWG/perfume-24.png",
     "name": "Calvin Klein Eternity",
-    "supplier name": "Lorna Sharpe",
+    "supplierName": "Lorna Sharpe",
     "description": "This rose fragrance by Frederic Malle stays true to its name with powdery, vintage lipstick vibes. If you want to feel like a pin-up model or play with boudoir moods, this sexy and provocative scent will get you tingling. Notes of grapefruit, rose, violet, iris, vanilla, musk, amber, and vetiver give it a sexy, powerful mood.\r\n",
     "quantity": 5
   },
   {
     
     "index": 22,
+    "price": 320,
     "picture": "https://i.ibb.co/bvbMhWF/perfume-23.png",
     "name": "Jimmy Choo by Jimmy Choo",
-    "supplier name": "Jacqueline Compton",
+    "supplierName": "Jacqueline Compton",
     "description": "Designed as a tribute to his marriage, Calvin Klein launched eternity in 1988. Decades later, it’s still associated with the storied brand. The clean, green, crisp scent blends freesia, sage, citruses, Mandarin orange, carnation, lily, violet, rose, musk, sandalwood, amber, and patchouli in its juice. It works equally for spring and summer, thanks to its head-turning sillage and longevity. \r\n",
     "quantity": 5
   },
   {
     
     "index": 23,
+    "price": 920,
     "picture": "https://i.ibb.co/VMJvzzX/perfume-21.png",
     "name": "Elizabeth Arden White Tea Vanilla Orchid",
-    "supplier name": "Brown Noble",
+    "supplierName": "Brown Noble",
     "description": "This namesake fragrance was the first scent from Jimmy Choo, one of the world’s best known shoe brands. In a bottle designed by then creative director Tamara Mellon, Jimmy Choo has sweet, fruity, and green notes that work seamlessly together. While there’s nothing earth-shatteringly unique about this spring-summer scent, it has a wide, magnetic appeal. It works beautifully day-to-night (though the longevity may require some re-applying) and makes a wonderful hostess gift.\r\n",
     "quantity": 4
   },
   {
     
     "index": 24,
+    "price": 100,
     "picture": "https://i.ibb.co/9v9v2NZ/perfume-22.png",
     "name": "Gucci Bloom",
-    "supplier name": "Lottie Oneil",
+    "supplierName": "Lottie Oneil",
     "description": "One of the best vanilla perfumes you’ll find is White Tea Vanilla Orchid from Elizabeth Arden. It’s made with an unsweetened, soft vanilla, rounded out with musk in the drydown. The scent is both comforting and feminine, which is why many women have opted for it as their signature fragrance since its 2019 launch.\r\n",
     "quantity": 4
   },
   {
     
     "index": 25,
+    "price": 200,
     "picture": "https://i.ibb.co/nfqVzTG/perfume-20.png",
     "name": "Givenchy Very Irresistible",
-    "supplier name": "Weaver Mcgee",
+    "supplierName": "Weaver Mcgee",
     "description": "A floral scent with a powdery edge, Gucci Bloom blends notes of jasmine, tuberose, and rangoon creeper. True to its name, Gucci creative director Alessandro Michele, who spearheaded the scent, had a lush garden full of diverse plants and flowers in mind when he conceived it. To reach his lofty floral aspiration, he worked in close concert with Alberto Morillas, the nose behind the scent. This isn’t the most complex perfume from the brand, but it’s approachable, perfect for summer, and mainstream enough to make it one of the best perfumes of all time.\r\n",
     "quantity": 4
   },
   {
     
     "index": 26,
+    "price": 199,
     "picture": "https://i.ibb.co/b7Xrfw8/perfume-19.png",
     "name": "Fendi Furiosa",
-    "supplier name": "Megan Kelly",
+    "supplierName": "Megan Kelly",
     "description": "This scent was conceived to reflect the special friendship between brand founder Hubert de Givenchy and the iconic actress Audrey Hepburn. In keeping with Hepburn’s timeless and glamorous aesthetic, Very Irresistible is a year-round, feminine scent that puts rose front-and-center. If you’re in the market for something classy, with moderate sillage and lasting power, this should be a top pick. \r\n",
     "quantity": 3
   },
   {
     
     "index": 27,
+    "price": 190,
     "picture": "https://i.ibb.co/cxW19HM/perfume-18.png",
     "name": "Lady Million By Paco Rabanne",
-    "supplier name": "Gretchen Day",
+    "supplierName": "Gretchen Day",
     "description": "The bodice-shaped bottle that this juice comes in is as iconic as the Jean Paul Gualtier scent itself. In fact it has inspired countless iterations, but none hold the same high appeal as the sweet, amber, floral original. This is a great option when you’re going to a crowded space (like a party or a concert) and looking to stand out. This memorable scent conveys an uncommonly strong projection.\r\n",
     "quantity": 5
   },
   {
     
     "index": 28,
+    "price": 890,
     "picture": "https://i.ibb.co/F00qPsg/perfume-17-1.png",
     "name": "Kenzo Flower By Kenzo",
-    "supplier name": "Ferguson Bishop",
+    "supplierName": "Ferguson Bishop",
     "description": "The eye-catching bottle of Furiosa was designed by jewelry designer Delfina Delettrez, who is part of the Fendi family. It’s a worthy display piece to hold the floral-oriental juice, with notes of pink pepper, bergamot, wallflower, gardenia, jasmine, and amber. The complex scent starts flowery and fresh, but soon after becomes a little spicy and aromatic (no fury about that here!) suiting it as a nighttime favorite.\r\n",
     "quantity": 4
   },
   {
     
     "index": 29,
+    "price": 160,
     "picture": "https://i.ibb.co/Hxw81Sr/perfume-16.png",
     "name": "Coach by Coach",
-    "supplier name": "Freda Mendez",
+    "supplierName": "Freda Mendez",
     "description": "Designed to be “clear as spring water,” L’eau d’Issey by Issey Miyake is a refreshing aquatic scent perfect for the warmer months. When you’re looking for something light to wear out in the sweltering heat, rely on a quick spritz on your neck or navel. Better yet, despite being airy, the eau de toilette performs like an eau de parfum when it comes to sillage and longevity.\r\n",
     "quantity": 5
   },
   {
     
     "index": 30,
+    "price": 180,
     "picture": "https://i.ibb.co/WFrtpZH/perfume-14.png",
     "name": "Happy by Clinique",
-    "supplier name": "Eugenia Shields",
+    "supplierName": "Eugenia Shields",
     "description": "Have you ever smelled something so addictive and seductive you just want to curl into it? That’s what you’ll get with Paco Rabanne’s Lady Million. People are drawn to you when you wear it. The scent is inspired by money and opulence which, let’s face it, most people are attracted to as well. So all the puzzle pieces fit with this gold diamond-shaped bottle and woody-floral scent that has just the right amount of caramel sweetness. \r\n",
     "quantity": 4
   },
   {
     
     "index": 31,
+    "price": 126,
     "picture": "https://i.ibb.co/qrNjwrS/perfume-15.png",
     "name": "Dior J’Adore Absolu",
-    "supplier name": "Anthony West",
+    "supplierName": "Anthony West",
     "description": "A powdery floral scent, Kenzo Flower will appeal to mature women — specifically the kind who like to see and be seen at posh eateries where the maître d’ knows everyone’s name (and lunchtime cocktail order!). Because the opening is on the fresh side, this elegant fragrance is best saved for daytime.\r\n",
     "quantity": 5
   },
   {
     
     "index": 32,
+    "price": 121,
     "picture": "https://i.ibb.co/ZN42m03/perfume-13.png",
     "name": "Nina Ricci L’Air Du Temps",
-    "supplier name": "Goldie Knapp",
+    "supplierName": "Goldie Knapp",
     "description": "When Coach by Coach launched, it was described by the brand as a “scent that is individual, authentic, and cool.” While this description may lead you to envision an out-of-the-box fragrance, it actually holds wide appeal with an approachable and versatile juice. This is a safe bet for a gift or if you’re looking for something office-appropriate that will work year-round.\r\n",
     "quantity": 3
   },
   {
     
     "index": 33,
+    "price": 129,
     "picture": "https://i.ibb.co/jwbxqcM/perfume-12.png",
     "name": "Moschino Fresh Pink Couture",
-    "supplier name": "Mclaughlin Alston",
+    "supplierName": "Mclaughlin Alston",
     "description": "If you’re wishing for something to add a little pep to your step, try Happy by Clinique. Many consider this the best perfume for girls, but it’s actually an energetic choice for adult women as well (or share and go the mommy-and-me route!). The fresh notes of orange, blood grapefruit, apple, plum, rose, lily, and amber combine for a divinely-upbeat feel. \r\n",
     "quantity": 4
   },
   {
     
     "index": 34,
+    "price": 129,
     "picture": "https://i.ibb.co/4YxykxJ/perfume-11.png",
     "name": "Ralph Lauren Safari",
-    "supplier name": "Angie Hale",
+    "supplierName": "Angie Hale",
     "description": "This recently-launched, easily-layerable scent from Jo Malone sports a top note of lavender, wisteria flower and heliotrope in the middle, and musk at the base. It opens dry and aromatic before turning sweet and powdery, tied together with beautiful musky undertones. Wisteria & Lavender is a great unisex option for everyday life.\r\n",
     "quantity": 5
   },
   {
     
     "index": 35,
+    "price": 920,
     "picture": "https://i.ibb.co/2gXcTVY/perfume-10.png",
     "name": "Prada Candy",
-    "supplier name": "Long Dickerson",
+    "supplierName": "Long Dickerson",
     "description": "Even though it’s a relatively new launch, many consider J’Adore Absolu the best-smelling perfume from Dior. While it isn’t a budget buy, it is a luxury fragrance that smells like luxury. It also proves that when you use top-quality ingredients, you don’t need a long list of notes. A few clean, quality hits here create a complex scent with high appeal. Close your eyes and you’ll feel as though you’re in a garden surrounded by lush magnolia trees.\r\n",
     "quantity": 3
   },
   {
     
     "index": 36,
+    "price": 620,
     "picture": "https://i.ibb.co/gwPYNL7/perfume-8.png",
     "name": "Guerlain Shalimar",
-    "supplier name": "Kerr Moss",
+    "supplierName": "Kerr Moss",
     "description": "The list of the best fragrances of all time would be incomplete without Charming Twilly d’Hermes. While its juice is to die for, we can’t help but highlight how fun it is to have this bright and festive bottle on one’s vanity. This scent’s recent launch attempted to capture a younger demographic, but Hermes will never sacrifice sophistication. It’s a great weekend brunch scent with notes of ginger, bitter orange, tuberose, jasmine, sandalwood, and vanilla.\r\n",
     "quantity": 4
   },
   {
     
     "index": 37,
+    "price": 320,
     "picture": "https://i.ibb.co/ZK5CK34/perfume-9.png",
     "name": "Sarah Jessica Parker Lovely",
-    "supplier name": "Wong Fuentes",
+    "supplierName": "Wong Fuentes",
     "description": "One of the most iconic fragrances of all time, L’Air Du Temps by Nina Ricci was created in 1948 following World War II. The dove atop the bottle is a symbol of peace. Many women today recall this as their first teen fragrance, and it remains a great youth option with its mix of floral, warm, and spicy notes. The nostalgia this fragrance evokes for many of us is priceless.  \r\n",
     "quantity": 3
   },
   {
     
     "index": 38,
+    "price": 160,
     "picture": "https://i.ibb.co/Q7Wh11D/perfume-7.png",
     "name": "Tom Ford Bitter Peach",
-    "supplier name": "Madge Tran",
+    "supplierName": "Madge Tran",
     "description": "Created under the leadership of Moschino‘s envelope-pushing creative director Jeremy Scott, Fresh Pink Couture comes in a totally-unique, cleaning-product-shaped bottle. In keeping with that vibe, it’s a citrus scent, but rounded-out with floral and woody notes — so it’s not cloying like you might expect. One of the best perfumes of all time, this fresh fragrance is suitable for spring and summer. A few spritzes will last long enough to make it through a bellini-fueled weekend brunch.\r\n",
     "quantity": 3
   },
   {
     
     "index": 39,
+    "price": 220,
     "picture": "https://i.ibb.co/XJvkL8g/perfume-6.png",
     "name": "Hugo Boss Deep Red",
-    "supplier name": "Petersen Travis",
+    "supplierName": "Petersen Travis",
     "description": "If you’re looking for a special occasion scent (think wedding, anniversary, or graduation), Carolina Herrera is a timeless option. There’s something dreamy and “second skin” about this fun, white floral scent.\r\n",
     "quantity": 5
   },
   {
     
     "index": 40,
+    "price": 180,
     "picture": "https://i.ibb.co/g7MjZpV/perfume-3-1.png",
     "name": "Roberto Cavalli Paradiso",
-    "supplier name": "Lakisha Cantrell",
+    "supplierName": "Lakisha Cantrell",
     "description": "Ralph Lauren dovetails with Americana in our minds, but also with dusty earth tones and khaki (a.k.a. Safari inspo). Carrying on that rich tradition, Safari will transport you to the lush jungles of darkest Africa. Spray its rich, strong, perfect-for-fall aromatic-green fragrance when you’re feeling adventurous.\r\n",
     "quantity": 4
   },
   {
     
     "index": 41,
+    "price": 420,
     "picture": "https://i.ibb.co/jyfYSDb/perfume-1-1.png",
     "name": "Lacoste Touch of Pink",
-    "supplier name": "Robin Calhoun",
+    "supplierName": "Robin Calhoun",
     "description": "This amber vanilla fragrance by Prada is sweet through-and-through without being syrupy. Its strong caramel note is delicious and inviting. Candy is an aphrodisiac scent for a candle-lit dinner on a winter night. If you’re looking for the best winter perfume of all time, look no further.\r\n",
     "quantity": 5
   }
