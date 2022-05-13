@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button } from 'react-bootstrap';
 import { useSignInWithGoogle } from 'react-firebase-hooks/auth';
-import { useNavigate } from 'react-router-dom';
+import { useLocation, useNavigate } from 'react-router-dom';
 import auth from '../../../../firebase.init';
 import googleLogo from '../../../../images/social/google-logo.png';
 import Loading from '../../Loading/Loading';
@@ -9,6 +9,8 @@ import Loading from '../../Loading/Loading';
 const Social = () => {
     const [signInWithGoogle, user, loading, error] = useSignInWithGoogle(auth);
     const navigate = useNavigate();
+    const location = useLocation();
+    const from = location?.state?.from?.pathname || "/";
 
     let loadingElement;
     if (loading) {
@@ -24,7 +26,7 @@ const Social = () => {
         </p>
     }
     if (user) {
-        navigate('/');
+        navigate(from, { replace: true });
     }
     return (
         <div>

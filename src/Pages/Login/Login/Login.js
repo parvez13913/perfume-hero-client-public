@@ -3,7 +3,7 @@ import { Button } from 'react-bootstrap';
 import auth from '../../../firebase.init';
 import './Login.css';
 import { useSendPasswordResetEmail, useSignInWithEmailAndPassword } from 'react-firebase-hooks/auth';
-import { Link, useNavigate } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { toast, ToastContainer } from 'react-toastify';
 import Loading from '../Loading/Loading';
 import Social from './Social/Social';
@@ -19,6 +19,8 @@ const Login = () => {
         error,
     ] = useSignInWithEmailAndPassword(auth);
     const [sendPasswordResetEmail] = useSendPasswordResetEmail(auth);
+    const location = useLocation();
+    const from = location?.state?.from?.pathname || "/";
 
 
     const handelEmailField = event => {
@@ -44,7 +46,7 @@ const Login = () => {
         }
     }
     if (user) {
-        navigate('/');
+        navigate(from, { replace: true });
     }
 
     let loadingElement;
