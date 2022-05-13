@@ -11,7 +11,7 @@ const UseInventoryDetail = inventoryId => {
             .then(data => setInventoryDetail(data));
     }, [inventoryId]);
 
-    return [InventoryDetail]
+    return [InventoryDetail, setInventoryDetail]
 }
 
 export default UseInventoryDetail;
