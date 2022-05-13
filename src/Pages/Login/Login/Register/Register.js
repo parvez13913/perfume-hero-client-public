@@ -41,6 +41,7 @@ const Register = () => {
         else {
             createUserWithEmailAndPassword(email, password);
         }
+        console.log(user);
     }
 
     if (user) {

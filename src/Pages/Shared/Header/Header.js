@@ -35,10 +35,10 @@ const Header = () => {
                             {
                                 user ? <p className='pointer text-secondary m-2' onClick={handelLogout}>Logout</p> : <Nav.Link as={Link} to="Login">Login</Nav.Link>
                             }
-
+                            <Nav.Link as={Link} to="additems">AddItems</Nav.Link>
                             {
                                 user && <>
-                                    <Nav.Link as={Link} to="additems">AddItems</Nav.Link>
+                                    <Nav.Link as={Link} to="manage">ManageInventory</Nav.Link>
                                 </>
                             }
                         </Nav>

@@ -1,0 +1,17 @@
+.manage-inventory:hover{
+    transform: scaleY(1.20);
+    transition: 0.5 ease-in-out;
+}
+.inventory-img{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+    border-radius: 50%;
+}
+.margin-top{
+    margin-top: 30px;
+}
+.delete-btn{
+    width: 40px;
+    height: 40px;
+}

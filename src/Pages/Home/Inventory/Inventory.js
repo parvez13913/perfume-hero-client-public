@@ -24,7 +24,7 @@ const Inventory = ({ inventory }) => {
                         Quantity : {quantity}
                     </Card.Text>
                     <Card.Text>
-                        {price}
+                        Price : {price}
                     </Card.Text>
                     <Card.Text>
                         {description}
