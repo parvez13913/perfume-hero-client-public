@@ -1,0 +1,24 @@
+.perfume-history-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.history-image img{
+    width: 100%;
+}
+
+.history-video{
+    margin-top: 20%;
+}
+
+@media only screen and (max-width: 600px) {
+    .perfume-history-container{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .history-card{
+        margin-left: 50px;
+    }
+    .youtube-video{
+        width: 400px;
+    }
+}
