@@ -1,8 +1,16 @@
-# Getting Started with Create React App
+# Getting Started with Perfume Hero
 
-This project is Developed By React With Bootstrap CSS Framework and vanilla CSS [Perfume Hero](https://github.com/facebook/create-react-app).
+This project is Developed By React With Bootstrap CSS Framework and vanilla CSS [Perfume Hero](https://perfume-hero.web.app/).
 
-## Available Scripts
+* This project is Developed By React
+* This Project Uses Bootstrap Vanilla CSS And JavaScript
+* This project is hosted on Firebase
+* React toastify has been used in this project
+* React router has been used in this project
+* axios has been used in this project
+* This is a Perfume Ware House Site
+
+
 
 In the project directory, you can run:
 
