@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is Developed By React With Bootstrap CSS Framework and vanilla CSS [Perfume Hero](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 

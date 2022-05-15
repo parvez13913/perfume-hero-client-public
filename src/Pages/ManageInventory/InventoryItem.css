@@ -15,3 +15,19 @@
     width: 40px;
     height: 40px;
 }
+
+@media only screen and (max-width: 600px) {
+    .inventory-img{
+        width: 50px;
+        height: 50px;
+        margin-top: 10px;
+    }
+    .delete-btn{
+        width: 20px;
+        height: 20px;
+    }
+
+    .margin-top{
+        margin-top: 20px;
+    }
+}
