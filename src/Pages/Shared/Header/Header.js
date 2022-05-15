@@ -4,7 +4,7 @@ import { Container, Nav, Navbar } from 'react-bootstrap';
 import { useAuthState } from 'react-firebase-hooks/auth';
 import auth from '../../../firebase.init';
 import { Link } from 'react-router-dom';
-import logo from '../../../images/logo.png';
+import logo from '../../../images/perfume-hero-logo.png';
 import './Header.css';
 
 const Header = () => {
@@ -15,10 +15,13 @@ const Header = () => {
     }
     return (
         <div>
-            <Navbar sticky="top" collapseOnSelect expand="lg" bg="dark" variant="dark">
+            <Navbar className='sticky-top' sticky="top" collapseOnSelect expand="lg" bg="dark" variant="dark">
                 <Container>
                     <Navbar.Brand as={Link} to="/">
-                        <img className='header-logo' src={logo} alt="" />
+                        <div className='d-flex align-items-center justify-content-center'>
+                            <img className='header-logo' src={logo} alt="" />
+                            <h6 className='text-secondary mt-2'>Perfume Hero</h6>
+                        </div>
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">

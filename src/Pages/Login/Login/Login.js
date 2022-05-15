@@ -7,6 +7,7 @@ import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { toast, ToastContainer } from 'react-toastify';
 import Loading from '../Loading/Loading';
 import Social from './Social/Social';
+import axios from 'axios';
 
 const Login = () => {
     const [email, setEmail] = useState('');
@@ -14,7 +15,6 @@ const Login = () => {
     const navigate = useNavigate();
     const [
         signInWithEmailAndPassword,
-        user,
         loading,
         error,
     ] = useSignInWithEmailAndPassword(auth);
@@ -31,9 +31,13 @@ const Login = () => {
         setPassword(event.target.value);
     }
 
-    const handelSubmit = event => {
+    const handelSubmit = async event => {
         event.preventDefault();
-        signInWithEmailAndPassword(email, password);
+        await signInWithEmailAndPassword(email, password);
+        const { data } = await axios.post('http://localhost:5000/login', { email });
+        console.log(data);
+        localStorage.setItem('accessToken', data.accessToken);
+        navigate(from, { replace: true });
     }
 
     const handelResetPassword = async () => {
@@ -44,9 +48,6 @@ const Login = () => {
         else {
             toast("Please Enter Your Email");
         }
-    }
-    if (user) {
-        navigate(from, { replace: true });
     }
 
     let loadingElement;

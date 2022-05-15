@@ -14,7 +14,11 @@ const MyItem = () => {
 
         const getMyItem = async () => {
             const url = `http://localhost:5000/myInventory?email=${email}`;
-            const { data } = await axios.get(url);
+            const { data } = await axios.get(url, {
+                headers: {
+                    authorization: `Bearer ${localStorage.getItem('accessToken')}`
+                }
+            });
             setMyItem(data);
         }
 
