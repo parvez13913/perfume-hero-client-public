@@ -34,7 +34,7 @@ const MyItem = () => {
         }
 
         getMyItem();
-    }, [myItem, user]);
+    }, [myItem, navigate, user]);
 
     return (
         <div>
