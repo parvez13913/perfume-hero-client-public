@@ -3,7 +3,7 @@ const UseInventoryDetail = inventoryId => {
     const [InventoryDetail, setInventoryDetail] = useState();
 
     useEffect(() => {
-        const url = `http://localhost:5000/inventory/${inventoryId
+        const url = `https://damp-basin-67790.herokuapp.com/inventory/${inventoryId
             }`;
 
         fetch(url)

@@ -34,7 +34,7 @@ const Login = () => {
     const handelSubmit = async event => {
         event.preventDefault();
         await signInWithEmailAndPassword(email, password);
-        const { data } = await axios.post('http://localhost:5000/login', { email });
+        const { data } = await axios.post('https://damp-basin-67790.herokuapp.com/login', { email });
         console.log(data);
         localStorage.setItem('accessToken', data.accessToken);
         navigate(from, { replace: true });

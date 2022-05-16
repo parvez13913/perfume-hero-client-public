@@ -24,7 +24,7 @@ const InventoryDetail = () => {
             if (proceed) {
                 (async function () {
                     console.log(updatedInventory);
-                    const { data } = await axios.put(`http://localhost:5000/inventory/${_id}`, updatedInventory)
+                    const { data } = await axios.put(`https://damp-basin-67790.herokuapp.com/inventory/${_id}`, updatedInventory)
                     console.log(data);
                 })();
                 setInventoryDetail(updatedInventory);
@@ -45,7 +45,7 @@ const InventoryDetail = () => {
             if (!restock >= 1) {
                 return toast.error("Enter a valid number");
             }
-            const url = `http://localhost:5000/inventory/${_id}`;
+            const url = `https://damp-basin-67790.herokuapp.com/inventory/${_id}`;
             fetch(url, {
                 method: 'PUT',
                 headers: {

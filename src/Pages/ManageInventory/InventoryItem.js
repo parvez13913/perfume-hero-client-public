@@ -7,7 +7,7 @@ const InventoryItem = ({ inventoryItem, inventoryItems, setInventoryItems }) => 
     const handelDeleteButton = id => {
         const proceed = window.confirm("Do you want to Delete?");
         if (proceed) {
-            const url = `http://localhost:5000/inventory/${id}`;
+            const url = `https://damp-basin-67790.herokuapp.com/inventory/${id}`;
             fetch(url, {
                 method: 'DELETE'
             })
